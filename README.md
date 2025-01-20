@@ -1,5 +1,3 @@
-To create order(post)->localhost:9001/order
-![image](https://github.com/user-attachments/assets/cc470a0e-3e03-491b-917f-389e0a7a6c83)
 
 To get orders(get)->localhost:9001/order
 ![image](https://github.com/user-attachments/assets/34b752a6-c502-48a5-9597-ebfed71b3d69)
